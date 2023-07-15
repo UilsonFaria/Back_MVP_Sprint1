@@ -3909,3 +3909,6 @@ schemas/__pycache__/__init__.cpython-311.pyc
 schemas/__pycache__/disco.cpython-311.pyc
 schemas/__pycache__/error.cpython-311.pyc
 schemas/__pycache__/musica.cpython-311.pyc
+.env/
+.log/
+.database/
